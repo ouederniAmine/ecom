@@ -1,0 +1,1288 @@
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap
+File Name: D:\website copy\freshcart.codescandy.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZg.ttf
+File Name: D:\website copy\freshcart.codescandy.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+File Name: D:\website copy\freshcart.codescandy.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+File Name: D:\website copy\freshcart.codescandy.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+File Name: D:\website copy\freshcart.codescandy.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+File Name: D:\website copy\freshcart.codescandy.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+File Name: D:\website copy\freshcart.codescandy.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+File Name: D:\website copy\freshcart.codescandy.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://freshcart.codescandy.com/assets/css/theme.min.css
+File Name: D:\website copy\freshcart.codescandy.com\assets\css\theme.min.css
+Content Type: text/css
+
+Uri: https://freshcart.codescandy.com/assets/images/about/about-icons-1.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\about\about-icons-1.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/about/about-icons-2.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\about\about-icons-2.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/about/about-icons-3.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\about\about-icons-3.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/about/about-img.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\about\about-img.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/about/team-1.png
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\about\team-1.png
+Content Type: image/png
+
+Uri: https://freshcart.codescandy.com/assets/images/about/team-2.png
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\about\team-2.png
+Content Type: image/png
+
+Uri: https://freshcart.codescandy.com/assets/images/about/team-3.png
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\about\team-3.png
+Content Type: image/png
+
+Uri: https://freshcart.codescandy.com/assets/images/about/team-4.png
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\about\team-4.png
+Content Type: image/png
+
+Uri: https://freshcart.codescandy.com/assets/images/about/team-5.png
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\about\team-5.png
+Content Type: image/png
+
+Uri: https://freshcart.codescandy.com/assets/images/appbutton/appstore-btn.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\appbutton\appstore-btn.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/appbutton/googleplay-btn.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\appbutton\googleplay-btn.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/avatar/avatar-1.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\avatar\avatar-1.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/avatar/avatar-10.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\avatar\avatar-10.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/avatar/avatar-11.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\avatar\avatar-11.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/avatar/avatar-12.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\avatar\avatar-12.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/avatar/avatar-2.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\avatar\avatar-2.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/avatar/avatar-3.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\avatar\avatar-3.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/avatar/avatar-4.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\avatar\avatar-4.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/avatar/avatar-5.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\avatar\avatar-5.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/avatar/avatar-6.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\avatar\avatar-6.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/avatar/avatar-7.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\avatar\avatar-7.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/avatar/avatar-8.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\avatar\avatar-8.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/avatar/avatar-9.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\avatar\avatar-9.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/banner/ad-banner-1.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\banner\ad-banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/banner/ad-banner-2.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\banner\ad-banner-2.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/banner/ad-banner-3.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\banner\ad-banner-3.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/banner/ad-banner-4.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\banner\ad-banner-4.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/banner/ad-banner-5.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\banner\ad-banner-5.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/banner/ad-banner-6.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\banner\ad-banner-6.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/banner/assortment-citrus-fruits.png
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\banner\assortment-citrus-fruits.png
+Content Type: image/png
+
+Uri: https://freshcart.codescandy.com/assets/images/banner/banner-4.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\banner\banner-4.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/banner/banner-deal.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\banner\banner-deal.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/banner/grocery-banner-2.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\banner\grocery-banner-2.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/banner/grocery-banner.png
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\banner\grocery-banner.png
+Content Type: image/png
+
+Uri: https://freshcart.codescandy.com/assets/images/banner/menu-banner.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\banner\menu-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/banner/modal_img.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\banner\modal_img.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/blog/blog-img-1.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\blog\blog-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/blog/blog-img-2.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\blog\blog-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/blog/blog-img-3.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\blog\blog-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/blog/blog-img-4.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\blog\blog-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/blog/blog-img-5.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\blog\blog-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/blog/blog-img-6.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\blog\blog-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/blog/blog-img-7.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\blog\blog-img-7.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/blog/blog-img-8.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\blog\blog-img-8.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/blog/blog-img-9.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\blog\blog-img-9.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/blog/blog-large.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\blog\blog-large.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/blog/blogImage.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\blog\blogImage.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/blog/left-img.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\blog\left-img.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/blog/right-img.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\blog\right-img.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/category/atta-rice-dal.png
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\category\atta-rice-dal.png
+Content Type: image/png
+
+Uri: https://freshcart.codescandy.com/assets/images/category/baby-care.png
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\category\baby-care.png
+Content Type: image/png
+
+Uri: https://freshcart.codescandy.com/assets/images/category/bakery-biscuits.png
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\category\bakery-biscuits.png
+Content Type: image/png
+
+Uri: https://freshcart.codescandy.com/assets/images/category/category-atta-rice-dal.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\category\category-atta-rice-dal.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/category/category-baby-care.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\category\category-baby-care.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/category/category-bakery-biscuits.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\category\category-bakery-biscuits.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/category/category-chicken-meat-fish.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\category\category-chicken-meat-fish.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/category/category-cleaning-essentials.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\category\category-cleaning-essentials.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/category/category-cold-drinks-juices.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\category\category-cold-drinks-juices.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/category/category-dairy-bread-eggs.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\category\category-dairy-bread-eggs.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/category/category-fruits-vegetables.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\category\category-fruits-vegetables.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/category/category-instant-food.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\category\category-instant-food.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/category/category-pet-care.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\category\category-pet-care.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/category/category-snack-munchies.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\category\category-snack-munchies.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/category/category-tea-coffee-drinks.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\category\category-tea-coffee-drinks.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/category/chicken-meat-fish.png
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\category\chicken-meat-fish.png
+Content Type: image/png
+
+Uri: https://freshcart.codescandy.com/assets/images/category/cleaning-essentials.png
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\category\cleaning-essentials.png
+Content Type: image/png
+
+Uri: https://freshcart.codescandy.com/assets/images/category/cold-drinks-juices.png
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\category\cold-drinks-juices.png
+Content Type: image/png
+
+Uri: https://freshcart.codescandy.com/assets/images/category/dairy-bread-eggs.png
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\category\dairy-bread-eggs.png
+Content Type: image/png
+
+Uri: https://freshcart.codescandy.com/assets/images/category/fruits-vegetables.png
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\category\fruits-vegetables.png
+Content Type: image/png
+
+Uri: https://freshcart.codescandy.com/assets/images/category/instant-food.png
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\category\instant-food.png
+Content Type: image/png
+
+Uri: https://freshcart.codescandy.com/assets/images/category/pet-care.png
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\category\pet-care.png
+Content Type: image/png
+
+Uri: https://freshcart.codescandy.com/assets/images/category/snack-munchies.png
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\category\snack-munchies.png
+Content Type: image/png
+
+Uri: https://freshcart.codescandy.com/assets/images/category/tea-coffee-drinks.png
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\category\tea-coffee-drinks.png
+Content Type: image/png
+
+Uri: https://freshcart.codescandy.com/assets/images/docs/4by3.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\docs\4by3.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/docs/bootstrap.jpeg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\docs\bootstrap.jpeg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/docs/gulp.jpeg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\docs\gulp.jpeg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/docs/nodejs.jpeg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\docs\nodejs.jpeg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/docs/placeholder-4by3.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\docs\placeholder-4by3.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/docs/placeholder-img.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\docs\placeholder-img.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/docs/sass.jpeg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\docs\sass.jpeg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/favicon/favicon.ico
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\favicon\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://freshcart.codescandy.com/assets/images/icons/baby-food.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\icons\baby-food.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/icons/bakery.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\icons\bakery.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/icons/clock.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\icons\clock.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/icons/dairy.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\icons\dairy.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/icons/fish.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\icons\fish.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/icons/fruit.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\icons\fruit.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/icons/gift.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\icons\gift.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/icons/package.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\icons\package.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/icons/petfoods.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\icons\petfoods.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/icons/refresh-cw.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\icons\refresh-cw.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/icons/snacks.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\icons\snacks.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/icons/toiletries.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\icons\toiletries.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/icons/wine.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\icons\wine.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/logo/freshcart-logo.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\logo\freshcart-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/logo/freshcart-white-logo.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\logo\freshcart-white-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/payment/amazonpay.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\payment\amazonpay.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/payment/american-express.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\payment\american-express.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/payment/mastercard.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\payment\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/payment/paypal.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\payment\paypal.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/payment/visa.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\payment\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/png/girl-email.png
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\png\girl-email.png
+Content Type: image/png
+
+Uri: https://freshcart.codescandy.com/assets/images/png/iphone-2.png
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\png\iphone-2.png
+Content Type: image/png
+
+Uri: https://freshcart.codescandy.com/assets/images/products/deal-img.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\products\deal-img.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/products/product-img-1.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\products\product-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/products/product-img-10.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\products\product-img-10.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/products/product-img-11.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\products\product-img-11.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/products/product-img-12.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\products\product-img-12.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/products/product-img-13.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\products\product-img-13.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/products/product-img-15.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\products\product-img-15.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/products/product-img-16.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\products\product-img-16.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/products/product-img-17.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\products\product-img-17.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/products/product-img-18.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\products\product-img-18.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/products/product-img-19.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\products\product-img-19.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/products/product-img-2.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\products\product-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/products/product-img-3.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\products\product-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/products/product-img-4.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\products\product-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/products/product-img-5.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\products\product-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/products/product-img-6.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\products\product-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/products/product-img-7.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\products\product-img-7.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/products/product-img-8.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\products\product-img-8.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/products/product-img-9.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\products\product-img-9.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/products/product-single-img-1.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\products\product-single-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/products/product-single-img-2.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\products\product-single-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/products/product-single-img-3.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\products\product-single-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/products/product-single-img-4.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\products\product-single-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/slider/hero-img-slider-1.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\slider\hero-img-slider-1.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/slider/hero-img-slider-2.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\slider\hero-img-slider-2.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/slider/hero-img-slider-3.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\slider\hero-img-slider-3.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/slider/slide-1.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\slider\slide-1.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/slider/slider-2.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\slider\slider-2.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/slider/slider-image-1.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\slider\slider-image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/slider/slider-image-2.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\slider\slider-image-2.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/slider/slider-image-3.jpg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\slider\slider-image-3.jpg
+Content Type: image/jpeg
+
+Uri: https://freshcart.codescandy.com/assets/images/stores-logo/stores-logo-1.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\stores-logo\stores-logo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/stores-logo/stores-logo-2.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\stores-logo\stores-logo-2.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/stores-logo/stores-logo-3.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\stores-logo\stores-logo-3.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/stores-logo/stores-logo-4.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\stores-logo\stores-logo-4.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/stores-logo/stores-logo-5.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\stores-logo\stores-logo-5.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/stores-logo/stores-logo-6.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\stores-logo\stores-logo-6.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/stores-logo/stores-logo-7.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\stores-logo\stores-logo-7.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/stores-logo/stores-logo-8.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\stores-logo\stores-logo-8.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/stores-logo/stores-logo-9.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\stores-logo\stores-logo-9.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/svg-graphics/americanexpress.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\svg-graphics\americanexpress.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/svg-graphics/delivery-boy.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\svg-graphics\delivery-boy.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/svg-graphics/discover.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\svg-graphics\discover.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/svg-graphics/error.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\svg-graphics\error.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/svg-graphics/fp-g.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\svg-graphics\fp-g.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/svg-graphics/mastercard.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\svg-graphics\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/svg-graphics/pattern.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\svg-graphics\pattern.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/svg-graphics/paypal.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\svg-graphics\paypal.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/svg-graphics/signin-g.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\svg-graphics\signin-g.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/svg-graphics/signup-g.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\svg-graphics\signup-g.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/svg-graphics/store-graphics.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\svg-graphics\store-graphics.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/images/svg-graphics/visa.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\images\svg-graphics\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/js/theme.min.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\js\theme.min.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/js/vendors/chart.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\js\vendors\chart.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/js/vendors/countdown.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\js\vendors\countdown.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/js/vendors/dropzone.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\js\vendors\dropzone.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/js/vendors/editor.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\js\vendors\editor.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/js/vendors/inputmask.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\js\vendors\inputmask.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/js/vendors/jquery.min.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\js\vendors\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/js/vendors/modal.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\js\vendors\modal.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/js/vendors/password.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\js\vendors\password.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/js/vendors/sidebarMenu.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\js\vendors\sidebarMenu.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/js/vendors/slick-slider.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\js\vendors\slick-slider.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/js/vendors/sticky.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\js\vendors\sticky.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/js/vendors/tns-slider.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\js\vendors\tns-slider.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/js/vendors/validation.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\js\vendors\validation.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/js/vendors/zoom.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\js\vendors\zoom.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/libs/apexcharts/dist/apexcharts.min.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\apexcharts\dist\apexcharts.min.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/libs/bootstrap-icons/font/bootstrap-icons.min.css
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\bootstrap-icons\font\bootstrap-icons.min.css
+Content Type: text/css
+
+Uri: https://freshcart.codescandy.com/assets/libs/bootstrap-icons/font/fonts/bootstrap-icons.woff2?2820a3852bdb9a5832199cc61cec4e65
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\bootstrap-icons\font\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://freshcart.codescandy.com/assets/libs/bootstrap-icons/font/fonts/bootstrap-icons.woff?2820a3852bdb9a5832199cc61cec4e65
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\bootstrap-icons\font\fonts\bootstrap-icons.woff
+Content Type: font/woff
+
+Uri: https://freshcart.codescandy.com/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\bootstrap\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/libs/dropzone/dist/min/dropzone.min.css
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\dropzone\dist\min\dropzone.min.css
+Content Type: text/css
+
+Uri: https://freshcart.codescandy.com/assets/libs/dropzone/dist/min/dropzone.min.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\dropzone\dist\min\dropzone.min.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/libs/feather-webfont/dist/feather-icons.css
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\feather-webfont\dist\feather-icons.css
+Content Type: text/css
+
+Uri: https://freshcart.codescandy.com/assets/libs/feather-webfont/dist/feather-icons.eot?e0a20d6edb74f52c006bb300686580b0
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\feather-webfont\dist\feather-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://freshcart.codescandy.com/assets/libs/feather-webfont/dist/feather-icons.ttf?e0a20d6edb74f52c006bb300686580b0
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\feather-webfont\dist\feather-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://freshcart.codescandy.com/assets/libs/feather-webfont/dist/feather-icons.woff?e0a20d6edb74f52c006bb300686580b0
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\feather-webfont\dist\feather-icons.woff
+Content Type: font/woff
+
+Uri: https://freshcart.codescandy.com/assets/libs/flatpickr/dist/flatpickr.min.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\flatpickr\dist\flatpickr.min.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/libs/imask/dist/imask.min.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\imask\dist\imask.min.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/libs/nouislider/dist/nouislider.min.css
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\nouislider\dist\nouislider.min.css
+Content Type: text/css
+
+Uri: https://freshcart.codescandy.com/assets/libs/nouislider/dist/nouislider.min.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\nouislider\dist\nouislider.min.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/libs/prismjs/components/prism-scss.min.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\prismjs\components\prism-scss.min.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/libs/prismjs/plugins/copy-to-clipboard/prism-copy-to-clipboard.min.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\prismjs\plugins\copy-to-clipboard\prism-copy-to-clipboard.min.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/libs/prismjs/plugins/toolbar/prism-toolbar.min.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\prismjs\plugins\toolbar\prism-toolbar.min.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/libs/prismjs/prism.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\prismjs\prism.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/libs/prismjs/themes/prism-okaidia.min.css
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\prismjs\themes\prism-okaidia.min.css
+Content Type: text/css
+
+Uri: https://freshcart.codescandy.com/assets/libs/quill/dist/quill.min.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\quill\dist\quill.min.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/libs/rater-js/index.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\rater-js\index.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/libs/simplebar/dist/simplebar.min.css
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\simplebar\dist\simplebar.min.css
+Content Type: text/css
+
+Uri: https://freshcart.codescandy.com/assets/libs/simplebar/dist/simplebar.min.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\simplebar\dist\simplebar.min.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/libs/slick-carousel/slick/ajax-loader.gif
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\slick-carousel\slick\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://freshcart.codescandy.com/assets/libs/slick-carousel/slick/fonts/slick.eot
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\slick-carousel\slick\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://freshcart.codescandy.com/assets/libs/slick-carousel/slick/fonts/slick.eot?
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\slick-carousel\slick\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://freshcart.codescandy.com/assets/libs/slick-carousel/slick/fonts/slick.svg
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\slick-carousel\slick\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://freshcart.codescandy.com/assets/libs/slick-carousel/slick/fonts/slick.ttf
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\slick-carousel\slick\fonts\slick.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://freshcart.codescandy.com/assets/libs/slick-carousel/slick/fonts/slick.woff
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\slick-carousel\slick\fonts\slick.woff
+Content Type: font/woff
+
+Uri: https://freshcart.codescandy.com/assets/libs/slick-carousel/slick/slick-theme.css
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\slick-carousel\slick\slick-theme.css
+Content Type: text/css
+
+Uri: https://freshcart.codescandy.com/assets/libs/slick-carousel/slick/slick.css
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\slick-carousel\slick\slick.css
+Content Type: text/css
+
+Uri: https://freshcart.codescandy.com/assets/libs/slick-carousel/slick/slick.min.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\slick-carousel\slick\slick.min.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/libs/sticky-sidebar/dist/sticky-sidebar.min.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\sticky-sidebar\dist\sticky-sidebar.min.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/libs/tiny-slider/dist/min/tiny-slider.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\tiny-slider\dist\min\tiny-slider.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/assets/libs/tiny-slider/dist/tiny-slider.css
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\tiny-slider\dist\tiny-slider.css
+Content Type: text/css
+
+Uri: https://freshcart.codescandy.com/assets/libs/wnumb/wNumb.min.js
+File Name: D:\website copy\freshcart.codescandy.com\assets\libs\wnumb\wNumb.min.js
+Content Type: application/javascript
+
+Uri: https://freshcart.codescandy.com/dashboard/add-category.html
+File Name: D:\website copy\freshcart.codescandy.com\dashboard\add-category.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/dashboard/add-product.html
+File Name: D:\website copy\freshcart.codescandy.com\dashboard\add-product.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/dashboard/categories.html
+File Name: D:\website copy\freshcart.codescandy.com\dashboard\categories.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/dashboard/customers.html
+File Name: D:\website copy\freshcart.codescandy.com\dashboard\customers.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/dashboard/index.html
+File Name: D:\website copy\freshcart.codescandy.com\dashboard\index.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/dashboard/order-list.html
+File Name: D:\website copy\freshcart.codescandy.com\dashboard\order-list.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/dashboard/order-single.html
+File Name: D:\website copy\freshcart.codescandy.com\dashboard\order-single.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/dashboard/products.html
+File Name: D:\website copy\freshcart.codescandy.com\dashboard\products.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/dashboard/reviews.html
+File Name: D:\website copy\freshcart.codescandy.com\dashboard\reviews.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/dashboard/vendor-grid.html
+File Name: D:\website copy\freshcart.codescandy.com\dashboard\vendor-grid.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/dashboard/vendor-list.html
+File Name: D:\website copy\freshcart.codescandy.com\dashboard\vendor-list.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/accordions.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\accordions.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/alerts.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\alerts.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/background.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\background.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/badge.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\badge.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/borders.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\borders.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/breadcrumb.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\breadcrumb.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/button-group.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\button-group.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/buttons.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\buttons.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/card.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\card.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/carousel.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\carousel.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/changelog.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\changelog.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/close-button.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\close-button.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/collapse.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\collapse.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/colored-links.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\colored-links.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/colors.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\colors.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/compiled-files.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\compiled-files.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/components/call-to-action.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\components\call-to-action.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/components/card.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\components\card.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/components/counter.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\components\counter.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/components/ecommerce.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\components\ecommerce.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/components/features.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\components\features.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/components/filter.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\components\filter.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/components/footer.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\components\footer.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/components/form.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\components\form.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/components/list.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\components\list.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/components/navbar.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\components\navbar.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/components/review.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\components\review.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/components/sidebar.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\components\sidebar.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/components/slider.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\components\slider.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/components/table.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\components\table.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/components/testimonials.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\components\testimonials.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/dropdowns.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\dropdowns.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/environment-setup.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\environment-setup.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/file-structure.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\file-structure.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/forms.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\forms.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/index.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\index.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/input-group.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\input-group.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/list-group.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\list-group.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/modal.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\modal.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/navbar.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\navbar.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/navs-tabs.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\navs-tabs.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/offcanvas.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\offcanvas.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/opacity.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\opacity.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/pagination.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\pagination.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/placeholders.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\placeholders.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/popovers.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\popovers.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/progress.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\progress.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/ratio.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\ratio.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/resources-assets.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\resources-assets.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/scrollspy.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\scrollspy.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/shadows.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\shadows.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/spinners.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\spinners.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/stacks.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\stacks.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/tables.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\tables.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/text-color.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\text-color.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/text-truncation.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\text-truncation.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/text.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\text.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/toasts.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\toasts.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/tooltips.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\tooltips.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/typography.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\typography.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/vertical-rule.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\vertical-rule.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/docs/working-with-gulp.html
+File Name: D:\website copy\freshcart.codescandy.com\docs\working-with-gulp.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/index.html
+File Name: D:\website copy\freshcart.codescandy.com\index.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/404error.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\404error.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/about.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\about.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/account-address.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\account-address.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/account-notification.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\account-notification.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/account-orders.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\account-orders.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/account-payment-method.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\account-payment-method.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/account-settings.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\account-settings.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/blog-category.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\blog-category.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/blog-single.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\blog-single.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/blog.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\blog.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/contact.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\contact.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/forgot-password.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\forgot-password.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/index-2.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\index-2.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/index-3.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\index-3.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/index-4.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\index-4.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/index-5.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\index-5.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/shop-cart.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\shop-cart.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/shop-checkout.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\shop-checkout.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/shop-filter.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\shop-filter.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/shop-fullwidth.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\shop-fullwidth.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/shop-grid-3-column.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\shop-grid-3-column.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/shop-grid.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\shop-grid.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/shop-list.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\shop-list.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/shop-single-2.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\shop-single-2.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/shop-single.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\shop-single.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/shop-wishlist.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\shop-wishlist.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/signin.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\signin.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/signup.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\signup.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/store-grid.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\store-grid.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/store-list.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\store-list.html
+Content Type: text/html
+
+Uri: https://freshcart.codescandy.com/pages/store-single.html
+File Name: D:\website copy\freshcart.codescandy.com\pages\store-single.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-M8S4MT3EYG
+File Name: D:\website copy\freshcart.codescandy.com\gtag\js
+Content Type: application/javascript
+
